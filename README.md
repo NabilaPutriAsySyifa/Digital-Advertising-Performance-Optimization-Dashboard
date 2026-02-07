@@ -532,6 +532,6 @@ Terima kasih kepada:
 
 © 2026 Deep Dive Analytics Team | Independent Project
 
-**[🚀 Try Live Demo](https://your-dashboard-url.streamlit.app/)** | **[📖 Documentation](#)** | **[💬 Contact Us](#-kontak)**
+**[🚀 Try Live Demo](https://digital-advertising-performance-optimization-dashboard.streamlit.app/)**
 
 </div>
